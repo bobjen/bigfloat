@@ -2,8 +2,7 @@
 
 Arbitrary-precision floating-point library.
 
-Written by Bob Jenkins because MPFR was too difficult to get working at the
-time (public domain).  Rust translation in `src/`.
+Written by Bob Jenkins (public domain).  Rust translation in `src/`.
 
 Documentation for the original C++: https://burtleburtle.net/bob/math/bigfloat.html
 
